@@ -1,0 +1,12 @@
+img{
+    width: 100%;
+}
+.col-3, .col-2{
+    border: 1px solid grey;
+    text-align: center;
+    justify-content: center;
+}
+div{
+    margin:0px;
+    padding: 0px;
+}
